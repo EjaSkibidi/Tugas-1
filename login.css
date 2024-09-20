@@ -1,0 +1,48 @@
+body{
+    font-family: 'Open-Sans', sans-serif;
+    background: rgb(0, 0, 0);
+    background-image: url(illuminating-toyota-gt-86-hay8caw840b4oycc.jpg);
+}
+
+h1{
+    text-align: center;
+    text-transform: 300;
+}
+
+.tulisan_login{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.kotak_login{
+    width: 350px;
+    background: rgba(0, 0, 0, 0.182);
+    margin: 80px auto;
+    padding: 20px 2%;
+    border-radius: 5%;
+}
+
+label{
+    font-size: 12pt;
+    color: white;
+}
+
+.form_login{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 11pt;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.tombol_login{
+    background: #20e6f4;
+    color: #ffff;
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+}
